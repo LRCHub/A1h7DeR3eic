@@ -1,0 +1,320 @@
+{
+  "version": 1,
+  "base_track": "Inside Out",
+  "base_artist": "keshi",
+  "createdAt": "2026-02-20T11:24:41.930996Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Inside Out",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/01_Inside_Out_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Turn Each Other Inside Out",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/02_Turn_Each_Other_Inside_Out_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Turn Each Other Inside Out (Live)",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/03_Turn_Each_Other_Inside_Out_(Live)_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Inside Out",
+      "artist": "Bladee feat. Yung Lean",
+      "has_synced": true,
+      "path": "select/04_Inside_Out_Bladee_feat._Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Inside Out (feat. Yung Lean)",
+      "artist": "Bladee",
+      "has_synced": false,
+      "path": "select/05_Inside_Out_(feat._Yung_Lean)_Bladee.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Inside Out",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/06_Inside_Out_Anthrax.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Inside Out",
+      "artist": "Shara Nelson",
+      "has_synced": false,
+      "path": "select/07_Inside_Out_Shara_Nelson.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Inside Out",
+      "artist": "Crowded House",
+      "has_synced": true,
+      "path": "select/08_Inside_Out_Crowded_House.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Turn Me Inside Out",
+      "artist": "Wendy & Lisa",
+      "has_synced": false,
+      "path": "select/09_Turn_Me_Inside_Out_Wendy_&_Lisa.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Inside Out",
+      "artist": "Culture Beat",
+      "has_synced": false,
+      "path": "select/10_Inside_Out_Culture_Beat.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Inside Out - Not Normal Mix",
+      "artist": "Culture Beat",
+      "has_synced": false,
+      "path": "select/11_Inside_Out_-_Not_Normal_Mix_Culture_Beat.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Saturday Night Inside Out",
+      "artist": "The Avalanches",
+      "has_synced": false,
+      "path": "select/12_Saturday_Night_Inside_Out_The_Avalanches.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Inside Out",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/13_Inside_Out_Beck.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Inside Out",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/14_Inside_Out_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Inside Out",
+      "artist": "The Chainsmokers feat. Charlee",
+      "has_synced": false,
+      "path": "select/15_Inside_Out_The_Chainsmokers_feat._Charlee.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Inside Out",
+      "artist": "The Chainsmokers",
+      "has_synced": false,
+      "path": "select/16_Inside_Out_The_Chainsmokers.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Man Turned Inside Out",
+      "artist": "Devo",
+      "has_synced": false,
+      "path": "select/17_Man_Turned_Inside_Out_Devo.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Inside + Out - Apostle Of Hustle Unmix",
+      "artist": "Feist",
+      "has_synced": false,
+      "path": "select/18_Inside_+_Out_-_Apostle_Of_Hustle_Unmix_Feist.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Inside+Out [Apostle of Hustle UnMix Live at the BBC]",
+      "artist": "Feist",
+      "has_synced": false,
+      "path": "select/19_Inside+Out_[Apostle_of_Hustle_UnMix_Live_at_the_BBC]_Feist.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Bigger on the Inside",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/20_Bigger_on_the_Inside_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Everything Inside Me Is Ill",
+      "artist": "Maximilian Hecker",
+      "has_synced": true,
+      "path": "select/21_Everything_Inside_Me_Is_Ill_Maximilian_Hecker.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "From The Inside",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/22_From_The_Inside_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Fight from the Inside",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/23_Fight_from_the_Inside_Queen.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Feel Inside",
+      "artist": "Mary J. Blige feat. Nicki Minaj",
+      "has_synced": false,
+      "path": "select/24_Feel_Inside_Mary_J._Blige_feat._Nicki_Minaj.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Get along with You (Soul Inside Radio Mix)",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/25_Get_along_with_You_(Soul_Inside_Radio_Mix)_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Inside My Head",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/26_Inside_My_Head_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Inside My Head",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/27_Inside_My_Head_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Inside My Head - Live",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/28_Inside_My_Head_-_Live_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Inside My Head (Live)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/29_Inside_My_Head_(Live)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "The Way I Feel Inside",
+      "artist": "The Zombies",
+      "has_synced": false,
+      "path": "select/30_The_Way_I_Feel_Inside_The_Zombies.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "The Way I Feel Inside (rehearsal)",
+      "artist": "The Zombies",
+      "has_synced": false,
+      "path": "select/31_The_Way_I_Feel_Inside_(rehearsal)_The_Zombies.txt"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "The Way I Feel Inside \u0000 Rehearsal",
+      "artist": "The Zombies",
+      "has_synced": false,
+      "path": "select/32_The_Way_I_Feel_Inside_\u0000_Rehearsal_The_Zombies.txt"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Inside",
+      "artist": "lil wayne",
+      "has_synced": true,
+      "path": "select/33_Inside_lil_wayne.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Inside",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/34_Inside_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "(Something Inside) So Strong",
+      "artist": "Labi Siffre",
+      "has_synced": false,
+      "path": "select/35_(Something_Inside)_So_Strong_Labi_Siffre.txt"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "All the Hurt Inside",
+      "artist": "Monster Movie",
+      "has_synced": true,
+      "path": "select/36_All_the_Hurt_Inside_Monster_Movie.lrc"
+    },
+    {
+      "id": "lrclib_37",
+      "source": "lrclib",
+      "title": "Inside a Boy",
+      "artist": "My Brightest Diamond",
+      "has_synced": true,
+      "path": "select/37_Inside_a_Boy_My_Brightest_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_38",
+      "source": "lrclib",
+      "title": "Inside Looking Out",
+      "artist": "Mark Hollis",
+      "has_synced": false,
+      "path": "select/38_Inside_Looking_Out_Mark_Hollis.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Inside Out",
+      "artist": "keshi",
+      "has_synced": false,
+      "path": "select/pl_01_Inside_Out_keshi.txt"
+    }
+  ]
+}
